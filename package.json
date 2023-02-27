@@ -1,0 +1,13 @@
+{
+  "name": "ytdl-chrome-extension",
+  "version": "1.0.0",
+  "description": "Downloading Videos from YouTube",
+  "scripts": {
+  },
+  "author": "Ganesh Prasad G S",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.0",
+    "ytdl-core": "^2.0.0"
+  }
+}
