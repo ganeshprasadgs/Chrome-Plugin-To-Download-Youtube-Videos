@@ -1,0 +1,21 @@
+html {
+	background-color: rgb(212, 255, 0);
+}
+
+label {
+	font-size: 15px;
+}
+
+#quality {
+	padding: 10px;
+	text-align: center;
+}
+
+#filename {
+	padding: 10px;
+	font-size: 10px;
+}
+#format {
+	padding: 10px;
+	text-align: center;
+}

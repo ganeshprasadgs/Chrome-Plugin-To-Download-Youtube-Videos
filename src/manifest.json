@@ -1,0 +1,20 @@
+{
+    "name": "Youtube Video Downloader",
+    "version": "1.0",
+    "manifest_version":2,
+
+    "description": "Download from youtube",
+    "page_action": {
+        "default_title": "Downloading Videos from YouTube",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "downloads",
+        "activeTab",
+        "declarativeContent"
+    ],
+    "background" : {
+        "scripts" : ["background.js"],
+        "persistent" : false
+    }
+}
